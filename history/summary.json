@@ -17,10 +17,10 @@
   },
   {
     "name": "CDN",
-    "url": "https://cdn.derpyenterprises.org",
+    "url": "https://cdn.derpyenterprises.org/mue/mue_verified.svg",
     "slug": "cdn",
     "status": "down",
-    "uptime": "10.61",
+    "uptime": "100.00",
     "time": 0
   },
   {
