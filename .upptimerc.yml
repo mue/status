@@ -1,36 +1,28 @@
-# Change these first
-owner: mue # Your GitHub username
-repo: status # Your Github repository name
+owner: mue
+repo: status
 
-# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Website
+    url: https://muetab.com
+  - name: API
+    url: https://api.muetab.com
+  - name: CDN
+    url: https://cdn.derpyenterprises.org
+  - name: Marketplace
+    url: https://marketplace.muetab.com
+  - name: Blog
+    url: https://blog.muetab.com
+  - name: Unsplash Proxy
+    url: https://unsplash.muetab.com
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.muetab.com
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars3.githubusercontent.com/u/58658585?s=200&v=4
   name: Mue Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "Welcome to our statuspage!"
+  introMessage: For support, please contact hello@muetab.com or our Twitter (@getmue).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
