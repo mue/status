@@ -3,48 +3,48 @@
     "name": "Website",
     "url": "https://muetab.com",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 63
   },
   {
     "name": "API",
     "url": "https://api.muetab.com",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 134
   },
   {
     "name": "CDN",
     "url": "https://cdn.derpyenterprises.org/mue/mue_verified.svg",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 42
   },
   {
     "name": "Marketplace",
     "url": "https://marketplace.muetab.com",
     "slug": "marketplace",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 133
   },
   {
     "name": "Blog",
     "url": "https://blog.muetab.com",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 168
   },
   {
     "name": "Unsplash Proxy",
     "url": "https://unsplash.muetab.com",
     "slug": "unsplash-proxy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 148
   }
 ]
