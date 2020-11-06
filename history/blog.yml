@@ -1,7 +1,7 @@
 - url: https://blog.muetab.com
-- status: down
-- code: 526
-- responseTime: 195
-- lastUpdated: 2020-11-06T15:06:15.653Z
+- status: up
+- code: 200
+- responseTime: 297
+- lastUpdated: 2020-11-06T15:20:34.281Z
 - startTime: 2020-11-02T13:20:29.341Z
 - generator: Upptime <https://github.com/upptime/upptime>
