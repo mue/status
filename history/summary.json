@@ -5,7 +5,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 135
+    "time": 136
   },
   {
     "name": "API",
@@ -13,7 +13,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00",
-    "time": 395
+    "time": 413
   },
   {
     "name": "CDN",
@@ -21,7 +21,7 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 75
+    "time": 76
   },
   {
     "name": "Marketplace",
@@ -29,7 +29,7 @@
     "slug": "marketplace",
     "status": "up",
     "uptime": "100.00",
-    "time": 388
+    "time": 410
   },
   {
     "name": "Blog",
@@ -37,7 +37,7 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 443
+    "time": 464
   },
   {
     "name": "Unsplash Proxy",
@@ -45,6 +45,6 @@
     "slug": "unsplash-proxy",
     "status": "up",
     "uptime": "100.00",
-    "time": 386
+    "time": 404
   }
 ]
