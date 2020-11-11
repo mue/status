@@ -1,0 +1,18 @@
+<!DOCTYPE html> <html lang=en> <head> <meta charset=utf-8> <meta content="width=device-width,initial-scale=1" name=viewport> <meta content=#333333 name=theme-color> <base href=/ > <link href=global.css rel=stylesheet> <link href=manifest.json rel=manifest crossorigin=use-credentials> <script>__SAPPER__={baseUrl:"",preloaded:[void 0]};if('serviceWorker' in navigator)navigator.serviceWorker.register('/service-worker.js');(function(){try{eval("async function x(){}");var main="/client/client.40196202.js"}catch(e){main="/client/legacy/client.b52a4669.js"};var s=document.createElement("script");try{new Function("if(0)import('')")();s.src=main;s.type="module";s.crossOrigin="use-credentials";}catch(e){s.src="/client/shimport@2.0.4.js";s.setAttribute("data-main",main);}document.head.appendChild(s);}());</script> <link href=client/client-9c935b61.css rel=stylesheet><link href=client/index-777bf8f6.css rel=stylesheet><link href=client/index-4892ce2b.css rel=stylesheet> <link href=https://raw.githubusercontent.com/koj-co/upptime/master/assets/icon.svg rel=icon data-svelte=svelte-1t2b91p type=image/svg><link href=/logo-192.png rel=icon data-svelte=svelte-1t2b91p type=image/png> <link href=/client/client.40196202.js rel=modulepreload as=script crossorigin=use-credentials><link href=/client/client-9c935b61.css rel=preload as=style><link href=/client/index.fe1538ef.js rel=modulepreload as=script crossorigin=use-credentials><link href=/client/index.c9630aad.js rel=modulepreload as=script crossorigin=use-credentials><link href=/client/inject_styles.5607aec6.js rel=modulepreload as=script crossorigin=use-credentials><link href=/client/index-777bf8f6.css rel=preload as=style><link href=/client/index-4892ce2b.css rel=preload as=style></head> <body> <div id=sapper> <nav class=svelte-1lj8bp2><div class="svelte-1lj8bp2 container"><div><a href=/ class="svelte-1lj8bp2 logo"><img alt="" class=svelte-1lj8bp2 src="https://avatars3.githubusercontent.com/u/58658585?s=200&v=4"> <div>Mue Status</div></a></div> <ul class=svelte-1lj8bp2><li><a href=/ class=svelte-1lj8bp2>Status</a> <li><a href=https://github.com/mue/status class=svelte-1lj8bp2>GitHub</a> </li> </ul></div></nav> <main class=container></main> <footer class=svelte-jbr799><p>This page is <a href=https://github.com/mue/status>open source</a>, powered by <a href=https://upptime.js.org>Upptime</a></footer></div> <script> try {
+        if (typeof window !== "undefined" && window.navigator && navigator.serviceWorker) {
+          navigator.serviceWorker.getRegistrations().then(function (registrations) {
+            for (let registration of registrations) {
+              registration.unregister();
+            }
+          });
+        }
+        if (typeof window !== "undefined" && "caches" in window) {
+          caches.keys().then(function (keyList) {
+            return Promise.all(
+              keyList.map(function (key) {
+                return caches.delete(key);
+              })
+            );
+          });
+        }
+      } catch (error) {} </script> 
