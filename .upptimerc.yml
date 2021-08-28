@@ -7,7 +7,7 @@ sites:
   - name: API
     url: https://api.muetab.com
   - name: CDN (Cloudinary)
-    url: https://res.cloudinary.com
+    url: https://res.cloudinary.com/mue/image/upload/photos/old/d7eb7a574e11fc43.jpg
   - name: Marketplace
     url: https://marketplace.muetab.com
   - name: Blog
