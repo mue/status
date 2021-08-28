@@ -2,49 +2,118 @@
   {
     "name": "Website",
     "url": "https://muetab.com",
+    "icon": "https://favicons.githubusercontent.com/muetab.com",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 150
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 185,
+    "timeDay": 147,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2021-08-28": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.muetab.com",
+    "icon": "https://favicons.githubusercontent.com/api.muetab.com",
     "slug": "api",
     "status": "up",
-    "uptime": "100.00",
-    "time": 474
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 593,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 593,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
     "url": "https://cdn.derpyenterprises.org/mue/mue_verified.svg",
+    "icon": "https://favicons.githubusercontent.com/cdn.derpyenterprises.org",
     "slug": "cdn",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 79
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 100,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 100,
+    "dailyMinutesDown": {
+      "2021-08-28": 0,
+      "2020-11-02": 4
+    }
   },
   {
     "name": "Marketplace",
     "url": "https://marketplace.muetab.com",
+    "icon": "https://favicons.githubusercontent.com/marketplace.muetab.com",
     "slug": "marketplace",
     "status": "up",
-    "uptime": "100.00",
-    "time": 460
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 575,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 575,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
     "url": "https://blog.muetab.com",
+    "icon": "https://favicons.githubusercontent.com/blog.muetab.com",
     "slug": "blog",
     "status": "up",
-    "uptime": "100.00",
-    "time": 377
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 459,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 459,
+    "dailyMinutesDown": {
+      "2020-11-06": 14
+    }
   },
   {
     "name": "Unsplash Proxy",
     "url": "https://unsplash.muetab.com",
+    "icon": "https://favicons.githubusercontent.com/unsplash.muetab.com",
     "slug": "unsplash-proxy",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 464
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 544,
+    "timeDay": 97,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 544,
+    "dailyMinutesDown": {
+      "2021-08-28": 0
+    }
   }
 ]
