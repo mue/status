@@ -6,18 +6,18 @@ sites:
     url: https://muetab.com
   - name: API
     url: https://api.muetab.com
-  - name: CDN
-    url: https://cdn.derpyenterprises.org/mue/mue_verified.svg
+  - name: CDN (Cloudinary)
+    url: https://res.cloudinary.com
   - name: Marketplace
     url: https://marketplace.muetab.com
   - name: Blog
     url: https://blog.muetab.com
-  - name: Unsplash Proxy
-    url: https://unsplash.muetab.com
+  - name: Proxy
+    url: https://proxy.muetab.com
 
 status-website:
   cname: status.muetab.com
-  logoUrl: https://avatars3.githubusercontent.com/u/58658585?s=200&v=4
+  logoUrl: https://avatars3.githubusercontent.com/u/58658585?s=200
   name: Mue Status
   introTitle: "Welcome to our statuspage!"
   introMessage: For support, please contact hello@muetab.com or our Twitter (@getmue).
