@@ -62,7 +62,7 @@
     "url": "https://marketplace.muetab.com",
     "icon": "https://favicons.githubusercontent.com/marketplace.muetab.com",
     "slug": "marketplace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 636,
     "timeMonth": 569,
     "timeYear": 585,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-01": 0
+    }
   },
   {
     "name": "Blog",
