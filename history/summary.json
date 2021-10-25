@@ -24,18 +24,20 @@
     "url": "https://api.muetab.com",
     "icon": "https://favicons.githubusercontent.com/api.muetab.com",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 456,
-    "timeWeek": 431,
-    "timeMonth": 469,
-    "timeYear": 515,
-    "dailyMinutesDown": {}
+    "time": 651,
+    "timeDay": 5457,
+    "timeWeek": 1685,
+    "timeMonth": 792,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2021-10-25": 0
+    }
   },
   {
     "name": "CDN (Cloudinary)",
