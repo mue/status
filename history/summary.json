@@ -24,19 +24,19 @@
     "url": "https://api.muetab.com",
     "icon": "https://favicons.githubusercontent.com/api.muetab.com",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 5503,
-    "timeWeek": 2457,
-    "timeMonth": 1080,
-    "timeYear": 782,
+    "time": 775,
+    "timeDay": 4465,
+    "timeWeek": 2263,
+    "timeMonth": 1057,
+    "timeYear": 775,
     "dailyMinutesDown": {
-      "2021-10-25": 7
+      "2021-10-25": 24
     }
   },
   {
