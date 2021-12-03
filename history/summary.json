@@ -107,9 +107,9 @@
     "url": "https://proxy.muetab.com",
     "icon": "https://favicons.githubusercontent.com/proxy.muetab.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -119,6 +119,7 @@
     "timeMonth": 209,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2021-12-03": 0,
       "2021-10-21": 50,
       "2021-10-10": 11,
       "2021-08-28": 7
