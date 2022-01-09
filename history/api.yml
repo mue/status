@@ -1,7 +1,7 @@
 url: https://api.muetab.com
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2022-01-09T13:57:38.608Z
+status: down
+code: 504
+responseTime: 10530
+lastUpdated: 2022-01-09T14:35:13.758Z
 startTime: Mon Nov 02 2020 13:20:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
