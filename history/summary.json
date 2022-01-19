@@ -93,9 +93,9 @@
     "url": "https://blog.muetab.com",
     "icon": "https://favicons.githubusercontent.com/blog.muetab.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "92.16%",
+    "uptimeDay": "92.15%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
@@ -105,6 +105,7 @@
     "timeMonth": 103,
     "timeYear": 143,
     "dailyMinutesDown": {
+      "2022-01-19": 0,
       "2022-01-18": 112,
       "2022-01-08": 10
     }
