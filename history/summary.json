@@ -76,7 +76,7 @@
     "url": "https://blog.muetab.com",
     "icon": "https://favicons.githubusercontent.com/blog.muetab.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 79,
-    "timeWeek": 117,
+    "timeWeek": 119,
     "timeMonth": 102,
     "timeYear": 126,
     "dailyMinutesDown": {}
