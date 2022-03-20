@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 183,
-    "dailyMinutesDown": {
-      "2021-08-28": 11
-    }
+    "time": 822,
+    "timeDay": 2133,
+    "timeWeek": 2758,
+    "timeMonth": 1972,
+    "timeYear": 858,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 588,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 593,
+    "time": 911,
+    "timeDay": 620,
+    "timeWeek": 926,
+    "timeMonth": 709,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/res.cloudinary.com",
     "slug": "cdn-cloudinary",
     "status": "up",
-    "uptime": "2.46%",
-    "uptimeDay": "2.46%",
-    "uptimeWeek": "2.46%",
-    "uptimeMonth": "2.46%",
-    "uptimeYear": "2.46%",
-    "time": 204,
-    "timeDay": 204,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
-    "dailyMinutesDown": {
-      "2021-08-28": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 98,
+    "timeDay": 78,
+    "timeWeek": 80,
+    "timeMonth": 95,
+    "timeYear": 98,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Marketplace",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 849,
-    "timeWeek": 849,
-    "timeMonth": 849,
-    "timeYear": 614,
+    "time": 1057,
+    "timeDay": 631,
+    "timeWeek": 586,
+    "timeMonth": 770,
+    "timeYear": 1082,
     "dailyMinutesDown": {}
   },
   {
@@ -86,14 +82,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 717,
-    "timeWeek": 717,
-    "timeMonth": 717,
-    "timeYear": 491,
-    "dailyMinutesDown": {
-      "2020-11-06": 14
-    }
+    "time": 145,
+    "timeDay": 185,
+    "timeWeek": 151,
+    "timeMonth": 215,
+    "timeYear": 134,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Proxy",
@@ -101,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/proxy.muetab.com",
     "slug": "proxy",
     "status": "up",
-    "uptime": "1.73%",
-    "uptimeDay": "1.73%",
-    "uptimeWeek": "1.73%",
-    "uptimeMonth": "1.73%",
-    "uptimeYear": "1.73%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
-    "dailyMinutesDown": {
-      "2021-08-28": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 209,
+    "timeDay": 223,
+    "timeWeek": 225,
+    "timeMonth": 227,
+    "timeYear": 209,
+    "dailyMinutesDown": {}
   }
 ]
