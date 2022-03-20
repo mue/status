@@ -1,28 +1,42 @@
 owner: mue
 repo: status
+user-agent: mue
 
 sites:
   - name: Website
     url: https://muetab.com
+    icon: https://muetab.com/favicon.ico
   - name: API
     url: https://api.muetab.com
   - name: CDN (Cloudinary)
     url: https://res.cloudinary.com/mue/image/upload/photos/old/d7eb7a574e11fc43.jpg
+    icon: https://cloudinary.com/favicon.ico
   - name: Marketplace
     url: https://marketplace.muetab.com
+    icon: https://muetab.com/favicon.ico
   - name: Blog
     url: https://blog.muetab.com
+    icon: https://muetab.com/favicon.ico
   - name: Proxy
     url: https://proxy.muetab.com
+    icon: https://muetab.com/favicon.ico
+  - name: Docs
+    url: https://docs.muetab.com
+    icon: https://muetab.com/favicon.ico
 
 status-website:
   cname: status.muetab.com
   logoUrl: https://avatars3.githubusercontent.com/u/58658585?s=200
   name: Mue Status
-  introTitle: "Welcome to our statuspage!"
+  introTitle: "Welcome to our status page!"
   introMessage: For support, please contact hello@muetab.com or our Twitter (@getmue).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  scripts:
+    - src: https://umami.muetab.com/umami.js
+      async: true
+      defer: true
+      data-website-id: f24748bf-5553-4773-bcbe-568e6c7ffdef
