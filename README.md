@@ -30,5 +30,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Mue](https://muetab.com)
+- Code: [MIT](./LICENSE) (Upptime), [MIT](./assets/custom.css) (Custom CSS)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)

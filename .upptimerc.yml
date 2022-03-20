@@ -26,6 +26,7 @@ sites:
     icon: https://muetab.com/favicon.ico
 
 status-website:
+  theme: custom
   cname: status.muetab.com
   logoUrl: https://avatars3.githubusercontent.com/u/58658585?s=200
   favicon: https://muetab.com/favicon.ico
@@ -37,4 +38,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customHeadHtml: "<script src='https://umami.muetab.com/umami.js' async defer data-website-id='f24748bf-5553-4773-bcbe-568e6c7ffdef'></script>"
