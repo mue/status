@@ -8,6 +8,7 @@ sites:
     icon: https://muetab.com/favicon.ico
   - name: API
     url: https://api.muetab.com
+    icon: https://muetab.com/favicon.ico
   - name: CDN (Cloudinary)
     url: https://res.cloudinary.com/mue/image/upload/photos/old/d7eb7a574e11fc43.jpg
     icon: https://cloudinary.com/favicon.ico
@@ -39,4 +40,4 @@ status-website:
     - src: https://umami.muetab.com/umami.js
       async: true
       defer: true
-      data-website-id: f24748bf-5553-4773-bcbe-568e6c7ffdef
+      "data-website-id": f24748bf-5553-4773-bcbe-568e6c7ffdef
