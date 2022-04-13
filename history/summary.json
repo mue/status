@@ -112,17 +112,17 @@
     "url": "https://docs.muetab.com",
     "icon": "https://muetab.com/favicon.ico",
     "slug": "docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 86,
-    "timeWeek": 116,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 159,
+    "timeDay": 128,
+    "timeWeek": 122,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   }
 ]
