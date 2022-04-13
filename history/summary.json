@@ -13,7 +13,7 @@
     "time": 937,
     "timeDay": 297,
     "timeWeek": 2191,
-    "timeMonth": 2014,
+    "timeMonth": 1764,
     "timeYear": 974,
     "dailyMinutesDown": {}
   },
@@ -112,7 +112,7 @@
     "url": "https://docs.muetab.com",
     "icon": "https://muetab.com/favicon.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
