@@ -40,17 +40,17 @@
     "url": "https://res.cloudinary.com/mue/image/upload/photos/old/d7eb7a574e11fc43.jpg",
     "icon": "https://cloudinary.com/favicon.ico",
     "slug": "cdn-cloudinary",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 105,
-    "timeDay": 376,
-    "timeWeek": 271,
-    "timeMonth": 202,
-    "timeYear": 107,
+    "time": 107,
+    "timeDay": 363,
+    "timeWeek": 282,
+    "timeMonth": 210,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 103,
     "timeWeek": 173,
     "timeMonth": 221,
-    "timeYear": 279,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
