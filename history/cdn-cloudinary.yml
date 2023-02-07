@@ -1,7 +1,7 @@
 url: https://res.cloudinary.com/mue/image/upload/photos/old/d7eb7a574e11fc43.jpg
-status: up
-code: 200
-responseTime: 1034
-lastUpdated: 2023-02-07T13:45:30.998Z
+status: down
+code: 404
+responseTime: 90
+lastUpdated: 2023-02-07T13:52:33.490Z
 startTime: Sat Aug 28 2021 18:55:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
