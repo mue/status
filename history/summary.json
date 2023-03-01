@@ -40,7 +40,7 @@
     "url": "https://res.cloudinary.com/mue/image/upload/photos/old/d7eb7a574e11fc43.jpg",
     "icon": "https://cloudinary.com/favicon.ico",
     "slug": "cdn-cloudinary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 202,
     "timeDay": 186,
-    "timeWeek": 301,
+    "timeWeek": 299,
     "timeMonth": 316,
     "timeYear": 222,
     "dailyMinutesDown": {}
