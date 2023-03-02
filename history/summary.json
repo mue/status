@@ -14,7 +14,7 @@
     "timeDay": 401,
     "timeWeek": 1177,
     "timeMonth": 1628,
-    "timeYear": 1864,
+    "timeYear": 1863,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,17 @@
     "url": "https://marketplace.muetab.com",
     "icon": "https://muetab.com/favicon.ico",
     "slug": "marketplace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 573,
-    "timeWeek": 714,
-    "timeMonth": 774,
-    "timeYear": 785,
+    "time": 945,
+    "timeDay": 3894,
+    "timeWeek": 1805,
+    "timeMonth": 1100,
+    "timeYear": 811,
     "dailyMinutesDown": {}
   },
   {
