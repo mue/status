@@ -14,7 +14,7 @@
     "timeDay": 196,
     "timeWeek": 1612,
     "timeMonth": 1731,
-    "timeYear": 1830,
+    "timeYear": 1827,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 1075,
     "timeDay": 304,
     "timeWeek": 2187,
-    "timeMonth": 2996,
+    "timeMonth": 2812,
     "timeYear": 1104,
     "dailyMinutesDown": {}
   },
@@ -86,7 +86,7 @@
     "timeDay": 127,
     "timeWeek": 99,
     "timeMonth": 106,
-    "timeYear": 256,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -94,17 +94,17 @@
     "url": "https://proxy.muetab.com",
     "icon": "https://muetab.com/favicon.ico",
     "slug": "proxy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 315,
-    "timeWeek": 581,
-    "timeMonth": 548,
-    "timeYear": 385,
+    "timeDay": 263,
+    "timeWeek": 544,
+    "timeMonth": 538,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   },
   {
