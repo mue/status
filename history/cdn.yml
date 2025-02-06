@@ -1,7 +1,7 @@
 url: https://cdn.muetab.com/health.txt
-status: down
-code: 500
-responseTime: 169
-lastUpdated: 2025-02-06T08:12:48.465Z
+status: up
+code: 200
+responseTime: 208
+lastUpdated: 2025-02-06T09:15:19.018Z
 startTime: 2023-03-02T16:20:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
