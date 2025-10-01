@@ -1,8 +1,7 @@
-/* THIS FILE IS LICENSED UNDER MIT LICENSE, COPYRIGHT THE MUE AUTHORS*/
 /* 
 MIT License
 
-Copyright (c) 2022 The Mue Authors
+Copyright (c) 2022-2025 The Mue Authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,38 +22,44 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-:root {
-    --body-background-color: #fafbfc;
-    --body-text-color: #000;
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
 
-    --nav-background-color: #eaeaea;
-    --nav-border-bottom-color: #d8e8e4;
+:root {
+    --body-background-color: oklch(14.5% 0 0);
+    --body-text-color: #fff;
+
+    --nav-background-color: #0a0a0b;
+    --nav-border-bottom-color: #3a3a3a;
     --nav-current-border-bottom-color: #000000;
 
-    --card-background-color: #eaeaea;
-    --card-border-color: #d8e8e4;
+    --card-background-color: #0b0b0b;
+    --card-border-color: #161617;
 
     --down-background-color: #ffd0d2;
-    --down-border-left-color: #ff4757;
+    --down-border-left-color: #ff6467;
 
-    --degraded-border-left-color: #ff7f50;
-    --up-border-left-color: #2ed573;
+    --degraded-border-left-color: #ffb900;
+    --up-border-left-color: #00d492;
 
-    --tag-up-background-color: #2ed573;
-    --tag-down-background-color: #ff4757;
-    --tag-degraded-background-color: #ff7f50;
+    --tag-up-background-color: #00d492;
+    --tag-down-background-color: #ff6467;
+    --tag-degraded-background-color: #ffb900;
     --tag-color: #ffffff;
 
-    --change-background-color: #ff7f50;
+    --change-background-color: #ffb900;
 
-    --error-button-background-color: #5352ed;
-    --error-button-border-color: #5352ed;
+    --error-button-background-color: #050813;
+    --error-button-border-color: #050813;
     --error-button-color: #ffffff;
 
-    --submit-button-background-color: #5352ed;
-    --submit-button-border-color: #5352ed;
+    --submit-button-background-color: #050813;
+    --submit-button-border-color: #050813;
     --submit-button-color: #ffffff;
 
     --graph-opacity: 1;
     --graph-filter: none;
+}
+
+* {
+    font-family: 'Lexend Deca', sans-serif !important;
 }
