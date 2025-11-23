@@ -4,7 +4,7 @@
     "url": "https://muetab.com",
     "icon": "https://muetab.com/favicon.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 239,
-    "timeWeek": 180,
+    "timeWeek": 181,
     "timeMonth": 170,
     "timeYear": 270,
     "dailyMinutesDown": {}
